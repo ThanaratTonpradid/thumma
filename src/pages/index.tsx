@@ -13,7 +13,7 @@ export default function Home() {
             <span className="text-6xl">🪷</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-light mb-6 text-amber-900">
-            ยินดีต้อนรับสู่ <span className="font-medium">ธรรมะสวัสดี</span>
+            Welcome to <span className="font-medium">ธรรมะสวัสดี</span>
           </h1>
           <p className="text-xl text-amber-800 mb-8">
             ค้นพบความสงบภายในและปัญญาผ่านการเชื่อมโยงอย่างมีสติ
